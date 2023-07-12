@@ -2,7 +2,7 @@
 
 The Advanced Enchantments System is a custom enchantment system that introduces a wide range of custom enchantments, custom rarities, enchantment books, magic dusts, scrolls, and other features to enhance the gameplay experience.
 
-## NOTE
+## <span style="color:red">NOTE</span>
 
 THIS PLUGIN IS UNDER VERY VERY HEAVY DEVELOPMENT AND STILL CURRENTLY LACKS MOST OF THE FEATURES INTENDED. THIS IS MEANT TO BE A PORT OF THE JAVA PLUGIN CALLED 
 [AdvancedEnchantments](https://www.spigotmc.org/resources/⭕-advancedenchantments-⭐-450-custom-enchants-⭐-create-custom-enchantments-✅-25-sale.43058/)
