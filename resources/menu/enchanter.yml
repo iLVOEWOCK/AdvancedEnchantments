@@ -1,0 +1,9 @@
+# Configuration for Enchanter
+#  Change commands how to access it in top of config.yml
+# You can use '&' for color codes
+# set to "none" to disable
+open-sound: "mob.enderdragon.flap"
+
+# Enchnater GUI Title
+enchanter-title: "&r&7Server Enchanter"
+
