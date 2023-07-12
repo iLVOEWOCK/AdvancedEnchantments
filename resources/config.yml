@@ -1,0 +1,27 @@
+items:
+  itemnametag:
+    type: 'minecraft:name_tag'
+    name: '&r&6&lItem Name Tag &r&7(Right Click)'
+    lore:
+      - '&r&7Rename and customize your equipment'
+    messages:
+      success:
+        - "&r&e&l(!) &r&eYour ITEM has been renamed to: '{item_name}&e'"
+      air:
+        - '&r&l&e** You must hold an item in your hand.'
+      renaming-non-enchanted-item:
+        - '&r&l&e** Item must be enchanted to rename.'
+      activate:
+        - "    &r&6&lRename-Tag Usage"
+        - "&r&61. &r&7Hold the ITEM you'd like to rename."
+        - "&r&62. &r&7Send the new name as a chat message &lwith & color codes&r&7."
+        - "&r&63. &r&7Confirm the preview of the new name that is displayed."
+  blocktrak:
+    type: 'minecraft:slime_ball'
+    name: '&r&aBlockTrak Creator'
+    lore:
+      - '&r&7Track how many blocks you break with a tool'
+      - '&r&7Drag ontop of another item to apply it'
+    settings:
+      lore-display: '&r&eBlockTrak Blocks Broken: &6{stats}'
+      keyword: '&r&eBlockTrak Blocks Broken:&6'
