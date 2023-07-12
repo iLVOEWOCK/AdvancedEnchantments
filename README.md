@@ -7,7 +7,31 @@ The Advanced Enchantments System is a custom enchantment system that introduces 
 THIS PLUGIN IS UNDER VERY VERY HEAVY DEVELOPMENT AND STILL CURRENTLY LACKS MOST OF THE FEATURES INTENDED. THIS IS MEANT TO BE A PORT OF THE JAVA PLUGIN CALLED 
 [AdvancedEnchantments](https://www.spigotmc.org/resources/⭕-advancedenchantments-⭐-450-custom-enchants-⭐-create-custom-enchantments-✅-25-sale.43058/)
 PR's ARE GREATLY APPRECIATED AS THIS WOULD BE A LARGE SCALED PROJECT FOR ME TO TACKLE ON MY OWN
-\
+
+## TO-DO
+
+- [ ] Create enchantment registration system
+- [ ] Create raritys
+- [x] add Enchanter Command
+- [ ] add enchanter gui functionality
+- [ ] Create Tinkerer
+- [ ] Create Alchemist
+- [ ] Create Functionality for tinkerer
+- [ ] Create functionality for alchemist
+- [ ] Fix BlockTrak not counting the items correctly with the set lore from config
+- [ ] Add {stats} tag for BlockTrak that gets the count for blocks mined
+- [ ] Register remaining items from orignal [plugin](https://www.spigotmc.org/resources/⭕-advancedenchantments-⭐-450-custom-enchants-⭐-create-custom-enchantments-✅-25-sale.43058/)
+- [ ] Add Gkits
+- [ ] create a level system for gkits that upgrades the level of the enchants per gkit level
+- [ ] make enchantment cooldown configurable
+- [ ] make enchantment soul cost configurable
+- [ ] make souls system
+- [ ] make proc chances configurable
+- [ ] Group Creations through config (Rarity)
+
+## REQUIREMENTS
+
+This plugin **REQUIRES** [InvMenu](https://github.com/Muqsit/InvMenu), along with [CustomSizedInvMenu](https://github.com/Muqsit/CustomSizedInvMenu) and finally this [resource pack](https://github.com/tedo0627/InventoryUIResourcePack) (Must install under global via client since downloading it on server join is about 36mb and is too large for mobile however its fine if you install it directly)
 
 ## Features
 
